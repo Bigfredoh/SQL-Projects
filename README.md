@@ -10,8 +10,7 @@ ________________________________________________________________________________
 
 ## Sales Data Analysis with SQL
 
-### Sales Data Analysis with SQL Project Link
-
+### Sales Data Analysis with SQL Project Link 
 
 ### Overview
 
