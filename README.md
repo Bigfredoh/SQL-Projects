@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ## Sales Data Analysis with SQL
 
-### Sales Data Analysis with SQL Project Link 
+### [Sales Data Analysis with SQL Project Link ](https://github.com/Bigfredoh/SQL-Projects/blob/main/Sales%20SQL.sql)
 
 ### Overview
 
