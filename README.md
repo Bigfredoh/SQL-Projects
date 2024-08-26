@@ -49,36 +49,46 @@ Discount: Discount applied to the order.
 
 Profit: Profit earned from the order.
 
-### Analysis Goals
+## Analysis Goals
 
-1. Identify High-Value Customers: 
- Which customers have generated total sales above a certain threshold (e.g., $10,000)?
+### Identify High-Value Customers:
 
-2. Determine the Most Profitable Product Categories:
- What are the top three most profitable product categories overall?
+Which customers have generated total sales above a certain threshold (e.g., $10,000)?
 
-3. Analyze Shipping Performance:
+### Determine the Most Profitable Product Categories:
+ 
+What are the top three most profitable product categories overall?
+
+### Analyze Shipping Performance:
+
 What is the average lead time for orders that were shipped using "Second Class" or "Standard Class" modes?
 
-4. Find Underperforming Products:
+### Find Underperforming Products:
+
 Which products have a negative average profit?
 
-5. Segment-Based Profit Analysis:
+### Segment-Based Profit Analysis:
+
 How does the profit margin differ between customer segments (e.g., Consumer vs. Corporate)?
 
-6. Identify the Most Discounted Products:
+### Identify the Most Discounted Products:
+
 Which products have been sold with the highest average discount?
 
-7. Calculate the Growth in Sales Over Time:
+### Calculate the Growth in Sales Over Time:
+
 What is the month-over-month growth in sales?
 
-8. Identify the Top 5 Customers by Profit:
+### Identify the Top 5 Customers by Profit:
+
 Which customers generated the highest profit?
 
-9. Analyze Product Performance by Region:
+### Analyze Product Performance by Region:
+
 What are the top-performing products by sales in each country?
 
-SQL Queries
+## SQL Queries
+
 The project contains SQL queries designed to answer the above analysis questions using subqueries and window functions. These queries are organized and commented to provide clarity on the logic and methodology used.
 
 
